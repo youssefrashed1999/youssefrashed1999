@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Youssef Rashed
 - 👀 I’m interested in Software Engineering field
 - 🌱 I’m currently studying Computer and Communcation Engineering
-- 💞️ I’m currently looking for internships
+- 💞️ I’m currently looking for job opportunities
 - 📫 LinkedIn: https://www.linkedin.com/in/youssef-rashed-5370b6229/
 
 <!---
